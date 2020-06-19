@@ -19,7 +19,7 @@
 
 ## Usage
 
-![Usage GIF](https://sebastianalegre.com/wp-content/uploads/2020/06/GIS.gif)
+![Usage GIF](https://imgur.com/krW8UIA)
 
 ---
 
