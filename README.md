@@ -21,9 +21,10 @@
 -ChromeDriver https://sites.google.com/a/chromium.org/chromedriver/downloads
 
 **Instructions**
-0. If you haven't already, download ChromeDriver from the link provided and place it anywhere on your computer
-1. Download or copy googleImageScrape.py and run it with Python3
-2. Enjoy!
+
+1. If you haven't already, download ChromeDriver from the link provided and place it anywhere on your computer
+2. Download or copy googleImageScrape.py and run it with Python3
+3. Enjoy!
 
 ![Usage GIF](https://github.com/salegre/Google-Image-Scrappy/blob/master/GIS.gif)
 
