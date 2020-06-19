@@ -1,4 +1,4 @@
-<a href="http://sebastianalegre.com"><img src="https://sebastianalegre.com/wp-content/uploads/2020/06/GI-Scrappy.png" title="GI Scrappy" alt="Google-Images Scrappy"></a>
+<a href="http://sebastianalegre.com"><img src="https://sebastianalegre.com/wp-content/uploads/2020/06/GI-Scrappy.png" title="GI Scrappy" alt="Google-Images Scrappy" width="300px"></a>
 
 <!-- [![Sebastianalegre](https://sebastianalegre.com/wp-content/uploads/2020/06/GI-Scrappy.png)](http://sebastianalegre.com) -->
 
