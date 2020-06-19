@@ -5,7 +5,7 @@
 
 # Google-Images Scrappy
 
-> Google-Image Scrappy is a script for Python3 aimed at helping Machine-Learning students get multiple images out of a single search term.
+> Google-Image Scrappy is a script for Python3 aimed at helping Machine-Learning students get multiple images out of a single search term. The script retrieves URLs from images found on Google image-search
 
 **Badges**
 
