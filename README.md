@@ -17,7 +17,7 @@
 
 ## Usage
 
-![Usage GIF](https://imgur.com/krW8UIA)
+![Usage GIF](https://github.com/salegre/Google-Image-Scrappy/blob/master/GIS.gif)
 
 ---
 
