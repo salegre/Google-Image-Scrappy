@@ -7,7 +7,7 @@
 
 > Google-Image Scrappy is a script for Python3 aimed at helping Machine-Learning students get multiple images.
 
-**Badges
+**Badges**
 
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger)
 [![Coverage Status](http://img.shields.io/coveralls/badges/badgerbadgerbadger.svg?style=flat-square)](https://coveralls.io/r/badges/badgerbadgerbadger)
