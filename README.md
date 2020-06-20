@@ -19,8 +19,10 @@
 
 **Requirements**
 
--Python3
--ChromeDriver https://sites.google.com/a/chromium.org/chromedriver/downloads
+<ul>
+  <li>Python3</li>
+  <li>ChromeDriver https://sites.google.com/a/chromium.org/chromedriver/downloads</li>
+</ul>
 
 **Instructions**
 
